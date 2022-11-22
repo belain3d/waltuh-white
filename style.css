@@ -1,0 +1,55 @@
+body {
+    background-image: url("tile.png");
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 0px;
+}
+
+.title {
+    margin-top: 0px;
+    text-align: center;
+    font-size: 48px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+    margin-bottom: 5px;
+}
+
+.walter-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images-1 {
+    display: block;
+    margin-top: 35px;
+    
+}
+
+img {
+    vertical-align: top;
+
+}
+
+.text-1 {
+    color: yellow;
+    font-weight: bold;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    font-size: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.text-2 {
+    color: yellow;
+    font-weight: bold;
+    font-family: Comic Sans, Comic Sans MS, cursive;
+    font-size: 25px;
+    margin-top: 10px;
+}
